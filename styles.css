@@ -17,7 +17,7 @@ body {
 .container {
     max-width: 1100px;
     margin: 0 auto;
-    background-color: #20204a;
+    background-color: rgb(32, 32, 74);
     box-sizing: border-box;
 }
 
@@ -50,7 +50,7 @@ h2 {
 article h2 {
     background-color: hsl(275, 60%, 40%);
     padding: 8px;
-    margin-top: 25px;
+    margin: 25px 0 0 0;
 }
 
 /* Three-column float layout */
